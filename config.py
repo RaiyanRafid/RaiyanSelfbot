@@ -17,13 +17,13 @@ colorama.init()
 # ====================
 class BotConfig:
     """Core bot settings and authentication"""
-    TOKEN = 'MTExMTQ5NTMyMTYyNTgyOTM5Ng.GU8uba.wgmvXxOgA1Lb-RgVcn1J9egdaCgxERh62QYAE8'          # Your Discord user token
-    USER_ID = 1111495321625829396        # Your Discord user ID
+    TOKEN = 'User-Discord-User-Token'          # Your Discord user token
+    USER_ID = Your-User-ID        # Your Discord user ID
     PREFIX = "."                       # Command prefix for the bot
     COMMAND_COOLDOWN = 3               # Cooldown between commands (seconds)
     DELETE_COMMANDS = True             # Auto-delete command messages
     BOT_NAME = "Raiyan Bot"           # Name of the bot
-    BOT_VERSION = "1.0.0"             # Bot version
+    BOT_VERSION = "3.1.0"             # Bot version
 
 # Help Command Settings
 # ===================
